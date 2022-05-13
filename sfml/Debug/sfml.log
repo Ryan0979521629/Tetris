@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\sfml\Source.cpp(40,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\user\source\repos\sfml\Source.cpp(47,32): warning C4305: '正在初始化': 從 '__int64' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\user\source\repos\sfml\Source.cpp(47,13): warning C4309: '正在初始化': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+C:\Users\user\source\repos\sfml\Source.cpp(162,41): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\source\repos\sfml\Source.cpp(162,33): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\source\repos\sfml\Source.cpp(168,47): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\source\repos\sfml\Source.cpp(168,34): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  sfml.vcxproj -> C:\Users\user\source\repos\sfml\Debug\sfml.exe
