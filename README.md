@@ -1,8 +1,8 @@
 ### 作品二  俄羅斯方塊 開發時間:兩個禮拜
 
 
-![image](https://hackmd.io/_uploads/SkTO9MhCA.png)
-![image](https://hackmd.io/_uploads/BJUYczhC0.png)
+[![image](https://hackmd.io/_uploads/SkTO9MhCA.png)](https://github.com/user-attachments/assets/3b6ee542-d56d-4bb7-8000-1ce919d2dc72)
+[![image](https://hackmd.io/_uploads/BJUYczhC0.png)](https://github.com/user-attachments/assets/8f709e37-86db-44ca-8375-928ac8a019ac)
 
 作品介紹
 這項作品是我用C語言所寫出來的經典遊戲「俄羅斯方塊」，相較於普通的俄羅斯方塊，這個遊戲的背景圖和音樂皆是自己做的。
